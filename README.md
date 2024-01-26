@@ -1,5 +1,5 @@
 ### Olá!!! Eu sou o Arthur S Grasso 👋
-- :man_technologist: Atualmente estudo Python e HTML
+- :man_technologist: Atualmente estudo Python, HTML e CSS
 
 <div align="center">
 
